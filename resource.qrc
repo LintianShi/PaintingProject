@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/Circle.png</file>
+        <file>image/Line.png</file>
+        <file>image/Oval.png</file>
+        <file>image/Rectangle.png</file>
+        <file>image/Save.png</file>
+        <file>image/Open.png</file>
+        <file>image/OpenFile.png</file>
+        <file>image/Curve.png</file>
+        <file>image/curve1.png</file>
+        <file>image/color.png</file>
+        <file>image/Pen.png</file>
+        <file>image/fill.png</file>
+        <file>image/edit.png</file>
+        <file>image/poly.png</file>
+        <file>image/tailor.png</file>
+        <file>image/bi.png</file>
+        <file>image/youqitong.png</file>
+    </qresource>
+</RCC>

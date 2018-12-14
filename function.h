@@ -1,0 +1,9 @@
+#ifndef FUNCTION_H
+#define FUNCTION_H
+
+enum FUNCTION
+{
+    BLANK, DRAW, LINE, CIRCLE, OVAL, FILL, EDIT, POLYGON, TAILOR, CURVE
+};
+
+#endif // FUNCTION_H
